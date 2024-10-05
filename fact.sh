@@ -1,8 +1,7 @@
 #!/bin/bash
 
 
-#for i in $*
-do  
+#for i in $* 
 fact=1
 num=$i
 
