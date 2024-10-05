@@ -11,5 +11,6 @@ fact=`expr $fact \* $num`
 num=`expr $num - 1`
 done
  
+
 echo "fact of $i is $fact"
 done
